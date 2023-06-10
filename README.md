@@ -42,10 +42,10 @@
 
 ### 📊 My Stats :
 
-![dpacoria21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dpacoria21&theme=highcontrast&hide_border=true)
+![dpacoria21's Stats](https://github-readme-stats.vercel.app/api?username=dpacoria21&theme=dark&show_icons=true&hide_border=true&count_private=true)
 <br>
-![dpacoria21's Stats](https://github-readme-stats.vercel.app/api?username=dpacoria21&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![dpacoria21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dpacoria21&theme=dark&hide_border=true)
 <br>
-![dpacoria21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpacoria21&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+![dpacoria21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpacoria21&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
