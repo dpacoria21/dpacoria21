@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media3.giphy.com/media/28AEi3TIvtSP6/giphy.gif?cid=ecf05e47e3h9cihyq1dy94ciyr76p05iq5lrju07d0wkkzgz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="1200px" height="500px">
+    <img src="https://i.ibb.co/RTw61q0/gunter.png" width="1200px" height="500px">
     <h1>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7AA00&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Diego;I'm+a+Front-End+Developer;And+I+like+Competitive+Programming" alt="Typing SVG" /></a>
     </h1>
