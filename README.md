@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diego ivan pacori anccasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego ivan pacori anccasi" height="30" width="40" /></a>
-<a href="https://fb.com/diego pacori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diego pacori" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/diego ivan pacori anccasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="diego ivan pacori anccasi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diegoivanpacorianccasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego ivan pacori anccasi" height="30" width="40" /></a>
+<a href="https://fb.com/diegopacori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diego pacori" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/diegoivanpacorianccasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="diego ivan pacori anccasi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gunter132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gunter132" height="30" width="40" /></a>
 </p>
 
