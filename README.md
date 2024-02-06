@@ -19,6 +19,7 @@
 - 👯 I'm looking to collaborate on web page projects
 - 💬 Ask me about Javascript, CSS, Bootstrap, HTML, Java, Angular, C++
 - 😄 Pronouns: Gunter
+- 🔗 Contact with me: https://www.linkedin.com/in/diegoivanpacorianccasi/
 - 📖 Personal Website: https://my-portfolio-olive-eight-62.vercel.app/home
 - 🏋️‍♂️ Codeforce profile: https://codeforces.com/profile/Gunter132
 - ⚡ Fun fact: I'm starting in the world of competitive programming in codeforces with c++ as the main language
