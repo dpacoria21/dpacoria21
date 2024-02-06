@@ -3,7 +3,7 @@
     <h1>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7AA00&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Diego;I'm+a+Front-End+Developer;And+I+like+Competitive+Programming" alt="Typing SVG" /></a>
     </h1>
-    <h3 align="center">Hello! My name is <strong>Diego Ivan Pacori Anccasi</strong> and I am a Systems Engineering student at the National University of San Agustin in Arequipa-Perú. Passionate about Web Development and Competitive Programming.</h3>
+    <h3 align="center">Hello! My name is <b>Diego Ivan Pacori Anccasi</b> and I am a Systems Engineering student at the National University of San Agustin in Arequipa-Perú. Passionate about Web Development and Competitive Programming.</h3>
 </div>
 
 <div id="badges" align="center">
