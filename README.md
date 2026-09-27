@@ -13,8 +13,6 @@ Actualmente trabajo en el backend de **Senses Psicólogos** con **Node.js, Expre
 - **ICPC 2025:** equipo **Characatux**, puesto **23 de 200 equipos de Latinoamérica**
 - [Repositorio de práctica](https://github.com/dpacoria21/codeforces): soluciones, plantillas y entrenamiento en C++.
 
-*Máximo de Codeforces consultado el 27 de septiembre de 2026.*
-
 ## Proyectos destacados
 
 | Proyecto | Qué demuestra | Evidencia |
