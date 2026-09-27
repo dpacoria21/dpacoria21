@@ -10,7 +10,7 @@ Actualmente trabajo en el backend de **Senses Psicólogos** con **Node.js, Expre
 
 - **Codeforces:** [Fernando_Benito](https://codeforces.com/profile/Fernando_Benito) (anteriormente `gunter132`).
 - **Rango máximo: Specialist · rating máximo: 1457.**
-- **ICPC 2025:** equipo **Characatux**, puesto **23 de 200 equipos de Latinoamérica**, junto con Álvaro Raul Quispe Condori y David Alfredo Huamaní Ollachica.
+- **ICPC 2025:** equipo **Characatux**, puesto **23 de 200 equipos de Latinoamérica**
 - [Repositorio de práctica](https://github.com/dpacoria21/codeforces): soluciones, plantillas y entrenamiento en C++.
 
 *Máximo de Codeforces consultado el 27 de septiembre de 2026.*
