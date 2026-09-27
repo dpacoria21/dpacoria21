@@ -1,35 +1,41 @@
-<h1 align="center">Hi 👋, I'm Diego Ivan Pacori Anccasi</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
+# Diego Ivan Pacori Anccasi
 
-- 🔭 I’m currently working on **my personal projects**
+### Full-Stack Developer · Ingeniería de Sistemas, UNSA · Arequipa, Perú
 
-- 🌱 I’m currently learning **Sockets, NextJS, React Native Paper**
+Desarrollo aplicaciones web y móviles, desde las interfaces hasta las APIs y las bases de datos. Soy estudiante del último año de Ingeniería de Sistemas en la Universidad Nacional de San Agustín de Arequipa.
 
-- 👯 I’m looking to collaborate on **different projects about web and mobile development**
+Actualmente trabajo en el backend de **Senses Psicólogos** con **Node.js, Express, Prisma y PostgreSQL**, en coordinación con frontend y QA bajo Scrum. Implemento rutas, validaciones y reglas de negocio, documento APIs con Swagger/OpenAPI y Postman, y desarrollo recordatorios programados con node-cron.
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-olive-eight-62.vercel.app/home](https://my-portfolio-olive-eight-62.vercel.app/home)
+## Programación competitiva
 
-- 💬 Ask me about **React, JavaScript, React Native, TailwindCSS**
+- **Codeforces:** [Fernando_Benito](https://codeforces.com/profile/Fernando_Benito) (anteriormente `gunter132`).
+- **Rango máximo: Specialist · rating máximo: 1457.**
+- Participación en **ICPC 2025**.
+- Ganador de un concurso de programación competitiva en **PERUMEC**.
+- [Repositorio de práctica](https://github.com/dpacoria21/codeforces): soluciones, plantillas y entrenamiento en C++.
 
-- 📫 How to reach me **dpacoria@unsa.edu.pe**
+*Máximo de Codeforces consultado el 27 de septiembre de 2026.*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Oa4POtrvbs0_aB0g6fWRatkvoRYLBHOh/view?usp=drive_link](https://drive.google.com/file/d/1Oa4POtrvbs0_aB0g6fWRatkvoRYLBHOh/view?usp=drive_link)
+## Proyectos destacados
 
-- ⚡ Fun fact **I think I am fun, sociable and friendly. I like working as a team on different projects.**
+| Proyecto | Qué demuestra | Evidencia |
+| --- | --- | --- |
+| **Scheduler-App** | Aplicación móvil para organizar eventos y tareas, con React Native, TypeScript y Redux. Presentada en la Feria de Proyectos 2023. | [Código](https://github.com/dpacoria21/scheduler-app) |
+| **ChapiFarm** | Desarrollo frontend de una tienda virtual para Botica Virgen de Chapi con Angular, Bootstrap y Angular Material. Premio al mejor video en CIEPIS 2022. | [Repositorio del equipo](https://github.com/gopoma/chapipharm-frontend) |
+| **Reconocimiento del movimiento de los dedos** | Proyecto con Python, OpenCV, MediaPipe y PyAutoGUI aplicado a Eduboard, Eduplay y Touplay. Primer puesto en la Feria de Proyectos 2022. | [Evidencia](https://drive.google.com/file/d/1HZEsRohG0N4Lq-wgulPvB2Iii_klNge1/view) |
+| **Portafolio web** | Presentación de proyectos con React, TypeScript, Vite y Framer Motion. | [Código](https://github.com/dpacoria21/my-portfolio) · [Web](https://my-portfolio-olive-eight-62.vercel.app/) |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/diegoivanpacorianccasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego ivan pacori anccasi" height="30" width="40" /></a>
-<a href="https://fb.com/DiegoIvanPacoriAnccasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diego pacori" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCBCU1PNv13fBmypVYGtGsTA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="diego ivan pacori anccasi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gunter132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gunter132" height="30" width="40" /></a>
-</p>
+## Tecnologías
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Angular, Astro, Redux, React Hook Form, Bootstrap, Tailwind CSS, Material UI, Angular Material y Framer Motion.
+- **Backend:** Node.js, Express, NestJS y APIs REST.
+- **Datos:** PostgreSQL, MongoDB, Firebase y Prisma ORM.
+- **Móvil:** React Native.
+- **Herramientas y pruebas:** Docker, Git, GitHub, Vite, Jest, Swagger/OpenAPI y Postman.
+- **Otros lenguajes:** Python y C++ para programación competitiva.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpacoria21&show_icons=true&locale=en&layout=compact" alt="dpacoria21" /></p>
+## Contacto
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dpacoria21&show_icons=true&locale=en" alt="dpacoria21" /></p>
+[LinkedIn](https://www.linkedin.com/in/diego-ivan-pacori-anccasi-9860172b3/) · [Portafolio](https://my-portfolio-olive-eight-62.vercel.app/) · [dpacoria@unsa.edu.pe](mailto:dpacoria@unsa.edu.pe)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpacoria21&" alt="dpacoria21" /></p>
+Español nativo · Inglés intermedio.
